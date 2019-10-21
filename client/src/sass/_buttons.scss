@@ -1,0 +1,23 @@
+.btn {
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  display: inline-block;
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.25;
+  padding: 0.625rem 1.25rem;
+
+  &-primary {
+    background-color: $color-grey-dark;
+    border-color: $color-grey-light;
+    color: $color-white;
+
+    &:disabled,
+    &[disabled] {
+      background-color: $color-grey-light;
+      border-color: $color-grey-dark;
+      cursor: not-allowed;
+    }
+  }
+}

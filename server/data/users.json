@@ -1,0 +1,90 @@
+[
+  {
+    "id":1,
+    "full_name":"Carin Sunnucks",
+    "email":"csunnucks0@zimbio.com",
+    "role":"admin",
+    "username":"admin",
+    "password":"admin"
+  },
+  {
+    "id":2,
+    "full_name":"Sammie Tritton",
+    "email":"stritton1@state.tx.us",
+    "role":"biker",
+    "username":"biker1",
+    "password":"biker1"
+  },
+  {
+    "id":3,
+    "full_name":"Chevy Yorkston",
+    "email":"cyorkston2@amazonaws.com",
+    "role":"biker",
+    "username":"biker2",
+    "password":"biker2"
+  },
+  {
+    "id":4,
+    "full_name":"Hestia Rotherham",
+    "email":"hrotherham3@biblegateway.com",
+    "role":"biker",
+    "username":"biker3",
+    "password":"biker3"
+  },
+  {
+    "id":5,
+    "full_name":"Virge Burtwhistle",
+    "email":"vburtwhistle4@fema.gov",
+    "role":"biker",
+    "username":"biker4",
+    "password":"biker4"
+  },
+  {
+    "id":6,
+    "full_name":"Margeaux Ruppertz",
+    "email":"mruppertz5@storify.com",
+    "role":"biker",
+    "username":"biker5",
+    "password":"biker5"
+  },
+  {
+    "id":7,
+    "full_name":"Xenia Mableson",
+    "email":"xmableson6@technorati.com",
+    "role":"biker",
+    "username":"biker6",
+    "password":"biker6"
+  },
+  {
+    "id":8,
+    "full_name":"Ermanno Skinley",
+    "email":"eskinley7@vistaprint.com",
+    "role":"biker",
+    "username":"biker7",
+    "password":"biker7"
+  },
+  {
+    "id":9,
+    "full_name":"Marys Millan",
+    "email":"mmillan8@indiegogo.com",
+    "role":"biker",
+    "username":"biker8",
+    "password":"biker8"
+  },
+  {
+    "id":10,
+    "full_name":"Modesta Manford",
+    "email":"mmanford9@bigcartel.com",
+    "role":"biker",
+    "username":"biker9",
+    "password":"biker9"
+  },
+  {
+    "id":11,
+    "full_name":"Elisha Wallbanks",
+    "email":"ewallbanksa@odnoklassniki.ru",
+    "role":"biker",
+    "username":"biker10",
+    "password":"biker10"
+  }
+]

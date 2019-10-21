@@ -1,0 +1,93 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  height: 100%;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%
+}
+
+*,::after,::before {
+	box-sizing: inherit;
+}
+
+body {
+  color: $color-grey;
+  font-family: $font-lato;
+  font-size: $font-base;
+  font-weight: $font-regular;
+  height: 100%;
+  line-height: 1.5;
+  margin: 0;
+}
+
+a {
+	color: $color-blue;
+	text-decoration: none;
+
+  &:active,
+  &:focus,
+  &:hover {
+    outline: none;
+		text-decoration: none;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $font-regular;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1170px;
+  padding: 0 15px;
+}
+
+.alert {
+  margin: 0.625rem 0;
+  text-align: center;
+
+  &-error {
+    color: $color-red;
+  }
+}
+
+.header {
+  background-color: $color-grey-dark;
+  color: $color-white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.logout-link {
+  color: $color-white;
+}
+
+.main-content {
+  margin-bottom: 20px;
+}
+
+.page-title {
+  margin: 1rem 0;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pager-item {
+  cursor: pointer;
+  margin: 0.625rem;
+  padding: 0.625rem;
+}

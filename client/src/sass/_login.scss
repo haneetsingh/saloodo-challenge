@@ -1,0 +1,12 @@
+.login-page {
+  .page-title {
+    text-align: center;
+  }
+}
+
+#login-form {
+  @media (min-width: 768px) {
+    margin: 0 auto;
+    width: 500px;
+  }
+}
